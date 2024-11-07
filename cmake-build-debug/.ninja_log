@@ -1,0 +1,14 @@
+# ninja log v6
+2	154	7526883665148189	CMakeFiles/libBV.dir/lib/libBV/lib/Grafik.cxx.obj	9fe71feaa57bb05b
+13	168	7526883665263347	CMakeFiles/libBV.dir/lib/libBV/lib/SimpleFont.cxx.obj	6468b7d5ec973591
+30	205	7526883665435490	CMakeFiles/libBV.dir/lib/libBV/lib/AviWrite.cxx.obj	c8b923be6ad2b3a4
+46	218	7526883665597644	CMakeFiles/libBV.dir/lib/libBV/lib/BmpRead.cxx.obj	d4e55a9c3fa540ce
+22	238	7526883665355111	CMakeFiles/libBV.dir/lib/libBV/lib/AviRead.cxx.obj	1dee081a21742b42
+98	246	7526883666116544	CMakeFiles/libBV.dir/lib/libBV/lib/FileIO.cxx.obj	95fc9b0faa73283b
+63	566	7526883665759941	CMakeFiles/libBV.dir/lib/libBV/lib/BmpWrite.cxx.obj	fbbf8092d41ff7b3
+135	778	7526883666485317	CMakeFiles/bv.dir/Entzerren.cxx.obj	2f7f4716ef95df8e
+155	1118	7526883666692700	CMakeFiles/bv.dir/Kameraparameter_einlesen.cpp.obj	8bb7d09a21554597
+80	1119	7526883665933003	CMakeFiles/libBV.dir/lib/libBV/lib/FFT.cxx.obj	cd11262902482abd
+16	194	7526884194414602	liblibBV.a	30c0c115d6a5612c
+6	762	7526884194313807	CMakeFiles/bv.dir/main.cpp.obj	c62b5546d440c7a2
+762	953	7526884201871276	bv.exe	6612a49c4d7661ec
